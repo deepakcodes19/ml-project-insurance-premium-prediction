@@ -53,19 +53,22 @@ ml-project-insurance-premium-prediction/
 ├── requirements.txt             # Python dependencies
 └── README.md                    # Project documentation
 
-
+---
 ## ⚙️ Installation & Setup
+---
 
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/deepakcodes19/ml-project-insurance-premium-prediction.git
 cd ml-project-insurance-premium-prediction
-
+---
+---
 python -m venv venv
 venv\Scripts\activate     # On Windows
 # or
 source venv/bin/activate  # On Mac/Linux
-
+---
+---
 pip install -r requirements.txt
 
 streamlit run main.py
@@ -79,6 +82,8 @@ streamlit run main.py
 | Region          | Northwest                      |
 
 Predicted Health Insurance Cost: ₹XXXXX
+---
+---
 ## 🧰 Tech Stack
 - **Python 3.x**
 - **Streamlit** – Web app framework  
@@ -86,6 +91,8 @@ Predicted Health Insurance Cost: ₹XXXXX
 - **pandas** – Data processing  
 - **joblib** – Model serialization  
 - **NumPy** – Numerical computations  
+
+---
 
 ---
 
