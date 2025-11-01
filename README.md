@@ -79,10 +79,7 @@ streamlit run main.py
 | Region          | Northwest                      |
 
 Predicted Health Insurance Cost: ₹XXXXX
----
-
 ## 🧰 Tech Stack
-
 - **Python 3.x**
 - **Streamlit** – Web app framework  
 - **scikit-learn** – Model training and prediction  
@@ -92,22 +89,19 @@ Predicted Health Insurance Cost: ₹XXXXX
 
 ---
 
-## 🧑‍💻 Author
-
-**👤 Deepak Yadav**  
+## 👨‍💻 Author
+**Deepak Yadav**  
 🔗 [GitHub: deepakcodes19](https://github.com/deepakcodes19)
 
 ---
 
 ## ⭐ Contribute
-
 Contributions, issues, and feature requests are welcome!  
 Feel free to **open a pull request** or **report an issue** on GitHub.
 
 ---
 
 ## 📜 License
-
 This project is open-source and available under the **MIT License**.
 
 ---
