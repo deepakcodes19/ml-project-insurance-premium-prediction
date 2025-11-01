@@ -79,35 +79,37 @@ streamlit run main.py
 | Region          | Northwest                      |
 
 Predicted Health Insurance Cost: ₹XXXXX
+---
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 
-Python 3.x
+- **Python 3.x**
+- **Streamlit** – Web app framework  
+- **scikit-learn** – Model training and prediction  
+- **pandas** – Data processing  
+- **joblib** – Model serialization  
+- **NumPy** – Numerical computations  
 
-Streamlit – Web app framework
+---
 
-scikit-learn – Model training and prediction
+## 🧑‍💻 Author
 
-pandas – Data processing
+**👤 Deepak Yadav**  
+🔗 [GitHub: deepakcodes19](https://github.com/deepakcodes19)
 
-joblib – Model serialization
+---
 
-NumPy – Numerical computations
+## ⭐ Contribute
 
-🧑‍💻 Author
+Contributions, issues, and feature requests are welcome!  
+Feel free to **open a pull request** or **report an issue** on GitHub.
 
-👤 Deepak Yadav
-🔗 GitHub: deepakcodes19
+---
 
-⭐ Contribute
+## 📜 License
 
-Contributions, issues, and feature requests are welcome!
-Feel free to open a pull request or issue.
+This project is open-source and available under the **MIT License**.
 
-📜 License
+---
 
-This project is open-source and available under the MIT License.
-
-✨ Made with ❤️ and Machine Learning by Deepak Yadav
-
-
+✨ *Made with ❤️ and Machine Learning by Deepak Yadav*
