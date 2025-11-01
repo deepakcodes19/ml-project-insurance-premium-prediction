@@ -37,20 +37,20 @@ It then processes these inputs, scales numeric data, encodes categorical values,
 ---
 
 ## 🧩 Project Structure
+
 ml-project-insurance-premium-prediction/
 │
 ├── main.py # Streamlit app for user interface
 ├── prediction_helper.py # Handles preprocessing and model prediction
-├── artifacts/
-│ ├── model_young.joblib # ML model for young individuals
-│ ├── model_rest.joblib # ML model for older individuals
-│ ├── scaler_young.joblib # Scaler for young model
-│ └── scaler_rest.joblib # Scaler for older model
+│
+├── artifacts/ # Folder containing trained models & scalers
+│ ├── model_young.joblib
+│ ├── model_rest.joblib
+│ ├── scaler_young.joblib
+│ └── scaler_rest.joblib
+│
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
-
-
----
 
 ## ⚙️ Installation & Setup
 
