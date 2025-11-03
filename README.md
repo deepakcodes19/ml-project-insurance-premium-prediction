@@ -34,6 +34,15 @@ It then processes these inputs, scales numerical data, encodes categorical value
 
 ---
 
+## 🖼️ App Preview
+
+Here’s how the **Health Insurance Cost Predictor** app looks 👇  
+
+[![App Screenshot](<img width="1402" height="707" alt="image" src="https://github.com/user-attachments/assets/f3fe8b22-9c73-4ebb-9922-434f155bff3a" />
+)](https://deepak-ml-project-insurance-premium-prediction.streamlit.app/)
+> 🩺 Try the live app here — click the image or visit [deepak-ml-project-insurance-premium-prediction.streamlit.app](https://deepak-ml-project-insurance-premium-prediction.streamlit.app/)
+
+
 ## 🧠 How It Works
 
 1️⃣ **Input Data** — Users enter their personal and health information through a Streamlit interface.  
