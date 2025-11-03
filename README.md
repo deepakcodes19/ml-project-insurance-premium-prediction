@@ -39,7 +39,8 @@ It then processes these inputs, scales numerical data, encodes categorical value
 Here’s how the **Health Insurance Cost Predictor** app looks 👇  
 
 
-<img width="1429" height="766" alt="image" src="https://github.com/user-attachments/assets/236edc5c-b469-4c5f-a116-99b4951f72ac" />
+<img width="1407" height="706" alt="image" src="https://github.com/user-attachments/assets/b13cedb3-51b5-4d64-9e2b-da1d6e6edb0a" />
+
 
 
 
