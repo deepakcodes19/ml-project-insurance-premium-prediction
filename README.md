@@ -55,10 +55,10 @@ ml-project-insurance-premium-prediction/
 
 ## ⚙️ Installation & Setup
 
-### Prerequisites
+## Prerequisites
 Make sure you have Python 3.x installed.
 
-### 1️⃣ Clone the repository
+## 1️⃣ Clone the repository
 ```bash
 git clone [https://github.com/deepakcodes19/ml-project-insurance-premium-prediction.git](https://github.com/deepakcodes19/ml-project-insurance-premium-prediction.git)
 cd ml-project-insurance-premium-prediction
