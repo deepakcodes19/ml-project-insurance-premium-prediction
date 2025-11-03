@@ -1,5 +1,3 @@
-
-```markdown
 # 🏥 Health Insurance Cost Predictor
 
 A **Streamlit web app** that predicts **health insurance premium costs** based on user-provided personal and medical details.  
