@@ -145,5 +145,4 @@ This project is open-source and available under the **MIT License**.
 
 ---
 
-Would you like me to add a **preview image** or a **demo GIF section** (like “🎥 App Preview” at the top)? It can make your README look even more premium.
 ```
