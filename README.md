@@ -1,3 +1,4 @@
+```markdown
 # 🏥 Health Insurance Cost Predictor
 
 A **Streamlit web app** that predicts **health insurance premium costs** based on user-provided personal and medical details.  
@@ -22,13 +23,13 @@ The app takes multiple user inputs such as:
 - 🌍 Region  
 - 🏥 Medical history  
 
-It then processes these inputs, scales numeric data, encodes categorical values, and passes them to the trained ML model to predict the expected premium cost.
+It processes these inputs, scales numeric data, encodes categorical values, and passes them to the trained ML model to predict the expected premium cost.
 
 ---
 
 ## 🔗 Live Demo
 
-👉 **Deployed App:** [https://deepak-ml-project-insurance-premium-prediction.streamlit.app/](https://deepak-ml-project-insurance-premium-prediction.streamlit.app/)
+👉 [Try the App](https://deepak-ml-project-insurance-premium-prediction.streamlit.app/)
 
 ---
 
@@ -45,71 +46,84 @@ It then processes these inputs, scales numeric data, encodes categorical values,
 
 ## 🧩 Project Structure
 
+```
 ml-project-insurance-premium-prediction/
 │
-├── main.py # Streamlit app for user interface
-├── prediction_helper.py # Handles preprocessing and model prediction
+├── main.py                 # Streamlit app for user interface
+├── prediction_helper.py    # Handles preprocessing and model prediction
 │
-├── artifacts/ # Folder containing trained models & scalers
-│ ├── model_young.joblib
-│ ├── model_rest.joblib
-│ ├── scaler_young.joblib
-│ └── scaler_rest.joblib
+├── artifacts/              # Folder containing trained models & scalers
+│   ├── model_young.joblib
+│   ├── model_rest.joblib
+│   ├── scaler_young.joblib
+│   └── scaler_rest.joblib
 │
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
-
-yaml
-Copy code
+├── requirements.txt        # Python dependencies
+└── README.md               # Project documentation
+```
 
 ---
 
 ## ⚙️ Installation & Setup
 
-### 🧩 Prerequisites
 Make sure you have **Python 3.x** installed.
 
-### 1️⃣ Clone the repository
 ```bash
+# Clone the repository
 git clone https://github.com/deepakcodes19/ml-project-insurance-premium-prediction.git
 cd ml-project-insurance-premium-prediction
-2️⃣ Create and activate a virtual environment
-bash
-Copy code
-# On Windows
+
+# Create virtual environment
 python -m venv venv
+
+# Activate environment
+# On Windows
 venv\Scripts\activate
-
 # On Mac/Linux
-python3 -m venv venv
 source venv/bin/activate
-3️⃣ Install dependencies
-bash
-Copy code
+
+# Install dependencies
 pip install -r requirements.txt
-4️⃣ Run the Streamlit app
-bash
-Copy code
+
+# Run the Streamlit app
 streamlit run main.py
-🧰 Tech Stack
-Technology	Purpose
-Python 3.x	Core programming language
-Streamlit	Web app framework
-scikit-learn	Model training & prediction
-pandas	Data processing
-joblib	Model serialization
-NumPy	Numerical computations
+```
 
-👨‍💻 Author
-Deepak Yadav
-🔗 GitHub: deepakcodes19
+---
 
-⭐ Contribute
-Contributions, issues, and feature requests are welcome!
+## 🧰 Tech Stack
+
+| Technology     | Purpose                        |
+|----------------|--------------------------------|
+| Python 3.x     | Core programming language      |
+| Streamlit      | Web app framework              |
+| scikit-learn   | Model training & prediction    |
+| pandas         | Data processing                |
+| joblib         | Model serialization            |
+| NumPy          | Numerical computations         |
+
+---
+
+## 👨‍💻 Author
+
+**Deepak Yadav**  
+🔗 GitHub: [deepakcodes19](https://github.com/deepakcodes19)
+
+---
+
+## ⭐ Contribute
+
+Contributions, issues, and feature requests are welcome!  
 Feel free to open a pull request or report an issue on GitHub.
 
-📜 License
-This project is open-source and available under the MIT License.
+---
 
-✨ Made with ❤️ and Machine Learning by Deepak Yadav
+## 📜 License
+
+This project is open-source and available under the **MIT License**.
+
+---
+
+### ✨ Made with ❤️ and Machine Learning by Deepak Yadav
+```
 
