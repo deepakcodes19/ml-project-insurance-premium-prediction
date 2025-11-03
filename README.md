@@ -1,7 +1,10 @@
-# 🏥 Health Insurance Cost Predictor
+🏥 **Health Insurance Cost Predictor**
 
-A **Streamlit web app** that predicts **health insurance premium costs** based on user-provided personal and medical details.  
-This project uses **Machine Learning models** (trained separately for young and older individuals) to estimate insurance premiums accurately.
+A powerful **Streamlit web application** that predicts **health insurance premium costs** based on personal and medical details provided by the user.  
+This project leverages **Machine Learning models**, trained separately for **younger** and **older** individuals, to deliver accurate and data-driven premium predictions.  
+
+💡 Designed to make insurance cost estimation simple, transparent, and interactive — right from your browser.
+
 
 ---
 
@@ -86,6 +89,22 @@ git clone https://github.com/deepakcodes19/ml-project-insurance-premium-predicti
 cd ml-project-insurance-premium-prediction
 
 
+---
+###2️⃣ Create and activate a virtual environment
+# On Windows
+'''
+python -m venv venv
+venv\Scripts\activate
+---
+
+###3️⃣ Install dependencies
+'''
+pip install -r requirements.txt
+---
+
+###4️⃣ Run the Streamlit app
+'''
+streamlit run main.py
 ---
 
 ## 🧰 Tech Stack
